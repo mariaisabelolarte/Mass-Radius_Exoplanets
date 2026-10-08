@@ -1,4 +1,4 @@
-# proyecto1_mineria_datos
+# Proyecto 1: Minería de Datos
 
 ## Relación Masa-Radio en Exoplanetas
 
